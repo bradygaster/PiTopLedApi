@@ -56,7 +56,7 @@ namespace PiTopLightServer.Services
 
         public void ToggleGold()
         {
-            Toggle(_red);
+            Toggle(_amber);
         }
     }
 }
