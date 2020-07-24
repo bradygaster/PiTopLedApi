@@ -2,7 +2,7 @@ using PiTop;
 using PiTopMakerArchitecture.Foundation;
 using PiTopMakerArchitecture.Foundation.Components;
 
-namespace PiTopLightServer.Services
+namespace PiTopLightServer
 {
     public class LEDService
     {
